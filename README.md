@@ -15,9 +15,9 @@
 ++++++++ Run BurpLoader Run error+++++++++++
 
 --> java -jar burploader.jar
---> If any error > open CMD and enter this
-          rd /s /q "%userprofile%\AppData\Roaming\BurpSuite\" </br>
-          reg delete "HKEY_CURRENT_USER\SOFTWARE\JavaSoft\Prefs\burp" /f
+--> If any error > open CMD and enter this <br />
+          rd /s /q "%userprofile%\AppData\Roaming\BurpSuite\" <br />
+          reg delete "HKEY_CURRENT_USER\SOFTWARE\JavaSoft\Prefs\burp" /f <br />
           
 Follow us___
 
