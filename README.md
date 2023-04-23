@@ -1,5 +1,12 @@
 # Burp-Suite-Professional-latest-version
 
+Downloads Now__ <br />
+https://drive.google.com/file/d/1A4aDfkMnF_-7C0hHMZsL4j1B0w3S1cE2/view?usp=sharing  <br />
+
+Haw to install Burp suite pro in kali Host: <br />
+Help___
+ https://youtu.be/bJdpk__BOaI <br />
+
 # burp-suite install linux
 
 1. downloads JDK-18
