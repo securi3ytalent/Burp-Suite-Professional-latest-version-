@@ -21,11 +21,11 @@
           
 Follow us___
 
-https://www.facebook.com/devmehedi101
-https://www.linkedin.com/company/securitytalent   
-https://twitter.com/devmehedi101
-https://www.instagram.com/devmehedi101/
-https://www.youtube.com/@SecurityTalent/ 
+[+] https://www.facebook.com/devmehedi101
+[+] https://www.linkedin.com/company/securitytalent   
+[+] https://twitter.com/devmehedi101
+[+] https://www.instagram.com/devmehedi101/
+[+] https://www.youtube.com/@SecurityTalent/ 
 
 Free Hacking Course Download__
 https://t.me/Securi3yTalent
