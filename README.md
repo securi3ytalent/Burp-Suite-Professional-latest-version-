@@ -1,6 +1,6 @@
 # Burp-Suite-Professional-latest-version
 
-#burp-suite install linux
+# burp-suite install linux
 
 1. downloads JDK-18
 2. open the downloads directory ====>> cd Downloads
