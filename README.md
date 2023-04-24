@@ -30,16 +30,16 @@ Haw to install Burp suite pro in kali Host:
 ```
 4. dpkg -i (JDK file name)
 
-5. Copy me
+5. Copy Me
 ```bash
   sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-17/bin/java 1
 ```
-6. Copy me
+6. Copy Me
 ```bash
   sudo update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/jdk-17/bin/javac 1
 ``` 
 
-7. Copy me
+7. Copy Me
 ```bash
   sudo update-alternatives --config java
 ``` 
