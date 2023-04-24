@@ -36,6 +36,3 @@ Follow us___
 
 Free Hacking Course Download__
 https://t.me/Securi3yTalent
-
-
-<clipboard-copy value="src/index.js">Copy</clipboard-copy>
