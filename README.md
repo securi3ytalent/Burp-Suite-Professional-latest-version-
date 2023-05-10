@@ -9,7 +9,7 @@ Downloads Now__
   https://drive.google.com/file/d/1A4aDfkMnF_-7C0hHMZsL4j1B0w3S1cE2/view?usp=sharing 
 ```
 
-## Haw to install Burp suite pro
+## Haw to install Burp suite pro in Windows
 
 [<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">](https://youtu.be/pxPHIY-_R1s "Now in Android: 55")
 
