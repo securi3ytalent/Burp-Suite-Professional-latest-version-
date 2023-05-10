@@ -9,10 +9,9 @@ Downloads Now__
   https://drive.google.com/file/d/1A4aDfkMnF_-7C0hHMZsL4j1B0w3S1cE2/view?usp=sharing 
 ```
 
-Haw to install Burp suite pro in kali Host: 
-```bash
-  https://youtu.be/bJdpk__BOaI
-```
+Haw to install Burp suite pro: 
+[<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">]([https://youtu.be/arV4CdSHIa4](https://youtu.be/pxPHIY-_R1s) "Now in Android: 55")
+
 # burp-suite install in linux
 ## Installation
 
