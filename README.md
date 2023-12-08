@@ -68,10 +68,10 @@ Downloads Now__
 ``` 
 
 ## 🚀 Follow us___
-1. https://www.facebook.com/devmehedi101
-2. https://www.linkedin.com/company/securitytalent   
-3. https://twitter.com/devmehedi101
-4. https://www.instagram.com/devmehedi101/
+1. https://twitter.com/Securi3yTalent
+2. https://www.facebook.com/Securi3ytalent   
+3. https://www.instagram.com/securi3ytalent/
+4. https://medium.com/@securitytalent
 5. https://www.youtube.com/@SecurityTalent/ 
 
 
